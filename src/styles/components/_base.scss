@@ -1,7 +1,11 @@
 .site-wrapper {
+  padding-top: 50px;
   display: flex;
   flex-direction: column;
   min-height: 100vh;
+  height: 100vh;
+  overflow-y: auto;
+  padding-bottom: 56px;
   background-image: url(https://d4musicmarketing.com/wp-content/uploads/2018/02/start-music-career-header.jpg);
   background-size: cover;
   background-position: 50%;
